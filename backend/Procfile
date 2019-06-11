@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT carticy_4495.wsgi:application
